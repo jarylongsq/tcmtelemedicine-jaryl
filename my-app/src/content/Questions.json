@@ -1,0 +1,16 @@
+{
+    "title": "Some issue you might have about TCM",
+    "text": "We understand that you might have some questions about TCM and we try to reply all FAQs here!",
+    "section": [
+        {
+          "title": "Is it safe?",
+          "content": "Yes! TCM in Singapore is safe as all practitioners are required to be registered with the Traditional Chinese Medicine Practitioners Board (TCMPB) and follow a high standard of hygiene and sterilisation practices.",
+          "icon": "notes.svg"
+        },
+        {
+          "title": "Is there any data to back it up?",
+          "content": "There has been a rise in evidence-based medical research in TCM (DOI -> 10.1111/jebm.12420).",
+          "icon": "notes.svg"
+        }
+    ]
+}
