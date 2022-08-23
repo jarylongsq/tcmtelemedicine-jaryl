@@ -2,7 +2,7 @@ This is a React page written in TypeScript, aimed to showcase how telemedicine c
 
 ## Demo
 
-Check the live demo here 👉️ (https://tcmtelemedicine-jaryl.vercel.app/)
+Check the live demo here: (https://tcmtelemedicine-jaryl.vercel.app/)
 
 ### Installation
 
