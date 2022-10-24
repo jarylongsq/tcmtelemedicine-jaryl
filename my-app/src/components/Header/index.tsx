@@ -72,7 +72,7 @@ const Header = ({ t }: any) => {
         <Drawer closable={false} visible={visible} onClose={onClose}>
           <Col style={{ marginBottom: "2.5rem" }}>
             <Label onClick={onClose}>
-              <Col span={12}>
+              <Col span={10}>
                 <Menu>Menu</Menu>
               </Col>
               <Col span={12}>
