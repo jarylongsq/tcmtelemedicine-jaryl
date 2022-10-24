@@ -6,7 +6,6 @@ import { SvgIcon } from "../../common/SvgIcon";
 import { Button } from "../../common/Button";
 import {
   HeaderSection,
-  LogoContainer,
   Burger,
   NotHidden,
   Menu,
@@ -62,9 +61,7 @@ const Header = ({ t }: any) => {
     <HeaderSection>
       <Container>
         <Row justify="space-between">
-          <LogoContainer to="/" aria-label="homepage">
-            <SvgIcon src="logo.svg" width="101px" height="64px" />
-          </LogoContainer>
+          <SvgIcon src="logo.svg" width="101px" height="64px" />
           <NotHidden>
             <MenuItem />
           </NotHidden>

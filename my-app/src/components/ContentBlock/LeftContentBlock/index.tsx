@@ -32,10 +32,8 @@ const LeftContentBlock = ({
         href={href}
         target="_blank"
         rel="noopener noreferrer"
-        key={src}
-        aria-label={src}
       >
-        <SvgIcon src={src} width="175px" height="50px" />
+      <SvgIcon src={src} width="175px" height="50px" />
       </a>
     );
   };

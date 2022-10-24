@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import { MenuOutlined } from "@ant-design/icons";
 
 export const HeaderSection = styled("header")`
@@ -9,10 +9,6 @@ export const HeaderSection = styled("header")`
     align-items: center;
     text-align: center;
   }
-`;
-
-export const LogoContainer = styled(Link)`
-  display: flex;
 `;
 
 export const NavLink = styled("div")`
@@ -27,7 +23,7 @@ export const CustomNavLink = styled("div")`
   @media only screen and (max-width: 411px) {
     width: 150px;
   }
-
+  
   @media only screen and (max-width: 320px) {
     width: 118px;
   }
